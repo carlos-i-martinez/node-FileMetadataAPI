@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+
+   <head>
+      <title>File Metadata API by Carlos Martinez</title>
+      <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+      <link href="/public/style.css" rel="stylesheet" type="text/css">
+   </head>
+
+   <body>
+
+      <div class="container">
+        <h2>API Project: File Metadata Microservice</h2>
+        <h3>User Stories:</h3>
+        <ol>
+          <li>Can submit a form that includes a file upload.</li>
+          <li>When a file is submitted, the file name and size in bytes is given in the JSON response</li>
+        </ol>
+
+        <h3>Usage:</h3>
+        <p>
+          Please Upload a File ...
+        </p>
+        <div class="view">
+          <h4 id="output"></h4>
+          <form enctype="multipart/form-data" method="POST" action="/api/fileanalyse">
+            <input id="inputfield" type="file" name="upfile">
+            <input id="button" type="submit" value="Upload">
+          </form>
+        </div>
+      </div>
+      <div class="footer">
+        <p><br><br><strong>
+          Coded by <a href="https://www.linkedin.com/in/carlos-martinez-baldenegro-08569223">Carlos Martinez</a>
+          </strong>
+        </p>
+      </div>
+   </body>
+
+
+</html>
