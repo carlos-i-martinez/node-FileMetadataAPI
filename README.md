@@ -12,6 +12,8 @@ Glitch Project: [File Metadata API Glitch Project](https://glitch.com/~fcc-filem
  
 Completed API and Microservices Certification: [Certificate](https://www.freecodecamp.org/certification/carlitos/apis-and-microservices "FreeCodeCamp.Com").
 
+FreeCodeCamp Public Profile: [Carlos Martinez FreeCodeCamp](https://www.freecodecamp.org/carlitos)
+
 ## Technologies Used:
 > * HTML, JavaScript, CSS, Node.js, Express.js, Multer.   
 
